@@ -1,0 +1,12 @@
+[submodule "foodorders-ms"]
+	path = foodorders-ms
+	url = git@github.com:LucasDiasAl/foodorders-ms.git
+[submodule "foodpayments-ms"]
+	path = foodpayments-ms
+	url = git@github.com:LucasDiasAl/foodpayments-ms.git
+[submodule "foodgateway-ms"]
+	path = foodgateway-ms
+	url = git@github.com:LucasDiasAl/foodgateway-ms.git
+[submodule "foodserver-ms"]
+	path = foodserver-ms
+	url = git@github.com:LucasDiasAl/foodserver-ms.git
